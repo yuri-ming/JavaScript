@@ -12,8 +12,7 @@
    '           hello         '.trim()  
    > "hello"  
 
-2. 변수 개념    
-name='yurim';     
-
-alert("Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language like HTML. "+name+" is a cornerstone technology of the World Wide Web, alongside HTML "+name+" and JavaScript.")  
-> 변수 선언한 부분만 바꿔주면 됨  
+2. 변수 개념      
+name='yurim';       
+alert("Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language like HTML. "+name+" is a cornerstone technology of the World Wide Web, alongside HTML "+name+" and JavaScript.")    
+변수 선언한 부분만 바꿔주면 됨  
