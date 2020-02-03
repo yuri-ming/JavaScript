@@ -1,6 +1,7 @@
 # JavaScript
 
 1. 콘솔을 이용한 간단 실습  
+
    'hello wolrd'.length  
    > 11  
    'hello world'.toUpperCase()  
